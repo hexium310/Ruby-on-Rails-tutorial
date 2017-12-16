@@ -5,4 +5,6 @@ $ docker-compose build
 $ docker-compsoe run --rm web rails . -BT
  
 $ docker-compsoe up -d
+ 
+$ ./rails g controller Welcome index
 ```
